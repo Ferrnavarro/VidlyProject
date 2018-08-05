@@ -6,7 +6,9 @@
 
 <h2>Customers</h2>
 
-@Html.ActionLink("New", "New", null, new { @class = "btn btn-default" })
+<p>
+    @Html.ActionLink("New Customer", "New", "Customers", null, new { @class = "btn btn-primary" })
+</p>
 
 
 
@@ -14,7 +16,7 @@
         <thead>
             <tr>
                 <th>Customer</th>
-                <th>Discount Rate</th>
+                <th>Membership Type</th>
                 <th>Delete</th>
             </tr>
         </thead>
@@ -71,6 +73,7 @@
                 });              
             });                   
         });
+
     </script>
 
 }
