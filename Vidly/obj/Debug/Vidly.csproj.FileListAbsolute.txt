@@ -132,3 +132,9 @@ D:\Projects\Vidly\Vidly\obj\Debug\Vidly.Migrations.AddBirthDateFieldInCustomers.
 D:\Projects\Vidly\Vidly\obj\Debug\Vidly.Migrations.AddGenreAndOtherPropertiesToMovie.resources
 D:\Projects\Vidly\Vidly\obj\Debug\Vidly.Migrations.populateGenre.resources
 D:\Projects\Vidly\Vidly\obj\Debug\Vidly.Migrations.MovieNameRequired.resources
+D:\Projects\Vidly\Vidly\bin\System.Net.Http.Formatting.dll
+D:\Projects\Vidly\Vidly\bin\System.Web.Http.dll
+D:\Projects\Vidly\Vidly\bin\System.Web.Http.WebHost.dll
+D:\Projects\Vidly\Vidly\bin\System.Net.Http.Formatting.xml
+D:\Projects\Vidly\Vidly\bin\System.Web.Http.xml
+D:\Projects\Vidly\Vidly\bin\System.Web.Http.WebHost.xml
