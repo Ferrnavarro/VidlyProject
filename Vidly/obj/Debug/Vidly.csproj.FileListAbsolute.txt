@@ -131,3 +131,4 @@ D:\Projects\Vidly\Vidly\obj\Debug\Vidly.Migrations.updateNameValueinMembershipty
 D:\Projects\Vidly\Vidly\obj\Debug\Vidly.Migrations.AddBirthDateFieldInCustomers.resources
 D:\Projects\Vidly\Vidly\obj\Debug\Vidly.Migrations.AddGenreAndOtherPropertiesToMovie.resources
 D:\Projects\Vidly\Vidly\obj\Debug\Vidly.Migrations.populateGenre.resources
+D:\Projects\Vidly\Vidly\obj\Debug\Vidly.Migrations.MovieNameRequired.resources
