@@ -31,9 +31,9 @@ namespace Vidly.Controllers
         {
 
             //var customers = GetCustomers();
-            var customers = _context.Customers.Include(c => c.MembershipType).ToList();
+            //var customers = _context.Customers.Include(c => c.MembershipType).ToList();
 
-            return View(customers);
+            return View();
 
         }
 
