@@ -140,3 +140,4 @@ D:\Projects\Vidly\Vidly\bin\System.Web.Http.xml
 D:\Projects\Vidly\Vidly\bin\System.Web.Http.WebHost.xml
 D:\Projects\Vidly\Vidly\bin\AutoMapper.dll
 D:\Projects\Vidly\Vidly\bin\AutoMapper.xml
+D:\Projects\Vidly\Vidly\obj\Debug\Vidly.Migrations.SeedUsers.resources
