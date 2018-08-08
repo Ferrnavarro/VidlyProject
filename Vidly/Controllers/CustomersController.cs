@@ -9,6 +9,7 @@ using Vidly.ViewModels;
 
 namespace Vidly.Controllers
 {
+    
     public class CustomersController : Controller
     {
         // GET: Customers
@@ -26,6 +27,7 @@ namespace Vidly.Controllers
         }
 
         //Actions
+
 
         public ViewResult Index()
         {
