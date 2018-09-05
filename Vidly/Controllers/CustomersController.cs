@@ -29,6 +29,7 @@ namespace Vidly.Controllers
         //Actions
 
 
+            //Index View Result
         public ViewResult Index()
         {
 
