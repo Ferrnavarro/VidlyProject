@@ -117,7 +117,6 @@ D:\Projects\Vidly\Vidly\obj\Debug\Vidly.csproj.CoreCompileInputs.cache
 D:\Projects\Vidly\Vidly\obj\Debug\Vidly.csproj.CopyComplete
 D:\Projects\Vidly\Vidly\obj\Debug\Vidly.dll
 D:\Projects\Vidly\Vidly\obj\Debug\Vidly.pdb
-D:\Projects\Vidly\Vidly\obj\Debug\Vidly.csprojResolveAssemblyReference.cache
 D:\Projects\Vidly\Vidly\obj\Debug\Vidly.Migrations.InitialModel.resources
 D:\Projects\Vidly\Vidly\obj\Debug\Vidly.csproj.GenerateResource.cache
 D:\Projects\Vidly\Vidly\obj\Debug\Vidly.Migrations.AddisSubscribedToCustomer.resources
@@ -141,3 +140,5 @@ D:\Projects\Vidly\Vidly\bin\System.Web.Http.WebHost.xml
 D:\Projects\Vidly\Vidly\bin\AutoMapper.dll
 D:\Projects\Vidly\Vidly\bin\AutoMapper.xml
 D:\Projects\Vidly\Vidly\obj\Debug\Vidly.Migrations.SeedUsers.resources
+D:\Projects\Vidly\Vidly\obj\Debug\Vidly.Migrations.AddDrivingLicenseToApplicationUser.resources
+D:\Projects\Vidly\Vidly\obj\Debug\Vidly.csprojResolveAssemblyReference.cache
